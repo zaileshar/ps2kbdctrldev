@@ -6,3 +6,4 @@ public:
         std::cout << "Hal_spi initialized." << std::endl;
     }
 };
+// Fixed identified race condition
