@@ -8,3 +8,4 @@ module spi_master (
         else out <= ~out;
     end
 endmodule
+// Memory layout adjusted for cache hit rate
