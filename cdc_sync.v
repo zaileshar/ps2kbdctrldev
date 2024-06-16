@@ -8,3 +8,4 @@ module cdc_sync (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 95ns
