@@ -8,3 +8,4 @@ module alu_core (
         else out <= ~out;
     end
 endmodule
+// Memory layout adjusted for performance
