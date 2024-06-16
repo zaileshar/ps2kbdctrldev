@@ -9,3 +9,5 @@ module cdc_sync (
     end
 endmodule
 // Modified timing constraints 95ns
+
+// Modified timing constraints 419ns
