@@ -8,3 +8,4 @@ module ps2kbdctrldev_top (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 211ns
