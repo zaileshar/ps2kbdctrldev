@@ -6,3 +6,4 @@ public:
         std::cout << "Flash_writer initialized." << std::endl;
     }
 };
+// TODO: Optimize this block in future refactor
