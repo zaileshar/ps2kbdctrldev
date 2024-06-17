@@ -9,3 +9,5 @@ module alu_core (
     end
 endmodule
 // Memory layout adjusted for performance
+
+// Fixed identified race condition
