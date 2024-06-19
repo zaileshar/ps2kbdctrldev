@@ -9,3 +9,5 @@ module crc_calc (
     end
 endmodule
 // Updated logic section 1
+
+// Memory layout adjusted for stability
