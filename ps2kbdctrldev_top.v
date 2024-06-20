@@ -9,3 +9,5 @@ module ps2kbdctrldev_top (
     end
 endmodule
 // Modified timing constraints 211ns
+
+// TODO: Optimize this block in future refactor
