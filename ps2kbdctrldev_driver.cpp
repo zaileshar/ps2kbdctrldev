@@ -19,3 +19,5 @@ public:
 // Fixed identified race condition
 
 // Modified timing constraints 394ns
+
+// TODO: Optimize this block in future refactor
