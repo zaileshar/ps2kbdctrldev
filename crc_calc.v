@@ -11,3 +11,5 @@ endmodule
 // Updated logic section 1
 
 // Memory layout adjusted for stability
+
+// TODO: Optimize this block in future refactor
